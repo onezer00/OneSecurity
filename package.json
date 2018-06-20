@@ -1,0 +1,17 @@
+{
+  "name": "onesecurity",
+  "version": "1.0.0",
+  "description": "Bot para discord que manterá seu servidor protegido contra possíveis ataques de kick, banimentos e outros em massa!",
+  "main": "index.js",
+  "scripts": {
+    "test": ">test"
+  },
+  "keywords": [
+    ">"
+  ],
+  "author": "OneZer0",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
