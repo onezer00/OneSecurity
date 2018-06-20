@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-bot.login('NDU4MzM2ODY5NDk5Nzk3NTA2.DgnEuA.RUU5drYMrS5wYId_Kp8qV2GXiYE');
+bot.login('');
 
 const responseObject = {
     ">oi": "Oi, eu sou o OneBot e estou aqui para ajuda-lo!",
